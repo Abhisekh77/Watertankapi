@@ -1,0 +1,17 @@
+[
+  {
+    "TankID": "1",
+    "TankName": "A",
+    "AvailableWater": 1000
+  },
+  {
+    "TankID": "2",
+    "TankName": "B",
+    "AvailableWater": 1000
+  },
+  {
+    "TankID": "3",
+    "TankName": "C",
+    "AvailableWater": 1000
+  }
+]
